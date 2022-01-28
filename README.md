@@ -1,8 +1,7 @@
 .. -*- mode: rst -*-
 
 sklearn-team-ci-status
----------------------
-CI status of the maintained projects in the team
+----------------------
 
 - **Scikit-learn** |Azure|_ |Travis|_ |CircleCI|_ |Nightly wheels|_
 
