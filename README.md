@@ -3,32 +3,36 @@
 sklearn-team-ci-status
 ----------------------
 
-- **Scikit-learn** |Azure|_ |Travis|_ |CircleCI|_ |Nightly wheels|_
+- **Scikit-learn** |Azure sklearn| |Travis| |CircleCI| |Nightly wheels|
 
-.. |Azure| image:: https://dev.azure.com/scikit-learn/scikit-learn/_apis/build/status/scikit-learn.scikit-learn?branchName=main
-.. _Azure: https://dev.azure.com/scikit-learn/scikit-learn/_build/latest?definitionId=1&branchName=main
+.. |Azure sklearn| image:: https://dev.azure.com/scikit-learn/scikit-learn/_apis/build/status/scikit-learn.scikit-learn?branchName=main
+   :target: https://dev.azure.com/scikit-learn/scikit-learn/_build/latest?definitionId=1&branchName=main
 
 .. |CircleCI| image:: https://circleci.com/gh/scikit-learn/scikit-learn/tree/main.svg?style=shield&circle-token=:circle-token
-.. _CircleCI: https://circleci.com/gh/scikit-learn/scikit-learn
+   :target: https://circleci.com/gh/scikit-learn/scikit-learn
 
 .. |Travis| image:: https://api.travis-ci.com/scikit-learn/scikit-learn.svg?branch=main
-.. _Travis: https://app.travis-ci.com/github/scikit-learn/scikit-learn
+   :target: https://app.travis-ci.com/github/scikit-learn/scikit-learn
 
 .. |Nightly wheels| image:: https://github.com/scikit-learn/scikit-learn/workflows/Wheel%20builder/badge.svg?event=schedule
-.. _`Nightly wheels`: https://github.com/scikit-learn/scikit-learn/actions?query=workflow%3A%22Wheel+builder%22+event%3Aschedule
+   :target: https://github.com/scikit-learn/scikit-learn/actions?query=workflow%3A%22Wheel+builder%22+event%3Aschedule
 
 
-- **Joblib** |Azure| |ReadTheDocs|
+- **Joblib** |Azure joblib| |ReadTheDocs|
 
-.. |Azure| image:: https://dev.azure.com/joblib/joblib/_apis/build/status/joblib.joblib?branchName=master
+.. |Azure joblib| image:: https://dev.azure.com/joblib/joblib/_apis/build/status/joblib.joblib?branchName=master
    :target: https://dev.azure.com/joblib/joblib/_build?definitionId=3&_a=summary&branchFilter=40
-   :alt: Azure CI status
 
 .. |ReadTheDocs| image:: https://readthedocs.org/projects/pip/badge/?version=latest
    :target: https://joblib.readthedocs.io/en/latest/
-   :alt: Doc status
 
-- **Threadpoolctl**
+- **Threadpoolctl** |Azure threadpoolctl|
 
-- **Scikit-learn-benchmarks**
+.. |Azure threadpoolctl| image:: https://dev.azure.com/joblib/threadpoolctl/_apis/build/status/joblib.threadpoolctl?branchName=master
+   :target: https://dev.azure.com/joblib/threadpoolctl/_build/latest?definitionId=1&branchName=master
+
+- **Scikit-learn-benchmarks** |Last run|
+
+.. |Last run| image:: https://github.com/scikit-learn/scikit-learn-benchmarks/workflows/Last%20run/badge.svg
+   :target: https://github.com/scikit-learn/scikit-learn-benchmarks/actions/workflows/check_last_run.yml
 
