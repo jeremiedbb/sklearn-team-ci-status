@@ -18,13 +18,21 @@ sklearn-team-ci-status
    :target: https://github.com/scikit-learn/scikit-learn/actions?query=workflow%3A%22Wheel+builder%22+event%3Aschedule
 
 
-- **Joblib** |Azure joblib| |ReadTheDocs|
+- **Joblib** |Azure joblib| |ReadTheDocs joblib|
 
 .. |Azure joblib| image:: https://dev.azure.com/joblib/joblib/_apis/build/status/joblib.joblib?branchName=master
    :target: https://dev.azure.com/joblib/joblib/_build?definitionId=3&_a=summary&branchFilter=40
 
-.. |ReadTheDocs| image:: https://readthedocs.org/projects/pip/badge/?version=latest
+.. |ReadTheDocs joblib| image:: https://readthedocs.org/projects/pip/badge/?version=latest
    :target: https://joblib.readthedocs.io/en/latest/
+   
+- **Loky** |Azure loky| |ReadTheDocs loky|
+
+.. |Azure loky| image:: https://dev.azure.com/joblib/loky/_apis/build/status/joblib.loky?branchName=master
+   :target: https://dev.azure.com/joblib/loky/_build/latest?definitionId=2&branchName=master
+
+.. |ReadTheDocs loky| image:: https://readthedocs.org/projects/loky/badge/?version=latest
+   :target: https://loky.readthedocs.io/en/latest/?badge=latest
 
 - **Threadpoolctl** |Azure threadpoolctl|
 
